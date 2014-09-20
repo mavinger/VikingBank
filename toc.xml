@@ -1,0 +1,5 @@
+<Addon Author="VikinghugUI" APIVersion="9" Name="VikingBank" Description="Replacement for the default Carbine Bank Addon" Version="0.0.1">
+    <Script Name="VikingBank.lua"/>
+    <Form Name="VikingBank.xml"/>
+    <ReplaceAddon Name="BankViewer"/>
+</Addon>
